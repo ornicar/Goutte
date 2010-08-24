@@ -2,7 +2,7 @@
 
 namespace Goutte;
 
-use Symfony\Components\Finder\Finder;
+use Symfony\Component\Finder\Finder;
 use Symfony\Framework\Kernel;
 
 /*
